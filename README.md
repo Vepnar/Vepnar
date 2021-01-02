@@ -4,7 +4,13 @@ I am a Software engineer, Data scientist & Linux Enthusiast.
 
 - 🔭 I’m currently working on `My portfolio`
 - 🌱 I’m currently learning `Angular`
-- 💬 Ask me about `Data science`, `Web development` & `Arch Linux`
+- 💬 Ask me about `Data science`, `Software engineering`, `Privacy` & `Arch Linux`
+
+## 📫 How to reach me:
+| Platform | Tag |
+|---|---|
+| [<img src="/images/session.png" alt="session" width="30" height="29"/>](https://getsession.org/ ) | 0543780605cc1882c6c812f64b46f6c3c15e5d9f88477e2f70a528a4443cfbd94a |
+| [<img src="/images/discord.png" alt="discord" width="30" height="29"/>](https://discord.com/) | Vepnar#3618 |
 
 <!--
 **Vepnar/Vepnar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
