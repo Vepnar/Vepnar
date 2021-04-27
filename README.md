@@ -3,7 +3,7 @@
 I am a Software engineer, Data scientist & Linux Enthusiast.  
 
 - 🔭 I’m currently working on `My portfolio website`
-- 🌱 I’m currently learning `Mathematics`
+- 🌱 I’m currently learning `Flutter`
 - 💬 Ask me about `Data science`, `Software engineering`, `Privacy` & `Arch Linux`
 - 🤔 I’m looking to collaborate on `DCGAN` & `Projects which make the world a better place`
 
@@ -12,14 +12,10 @@ I am a Software engineer, Data scientist & Linux Enthusiast.
 |---|---|
 | [<img src="/images/session.png" alt="session" width="30" height="29"/>](https://getsession.org/ ) | 0543780605cc1882c6c812f64b46f6c3c15e5d9f88477e2f70a528a4443cfbd94a |
 | [<img src="/images/discord.png" alt="discord" width="30" height="29"/>](https://discord.com/) | Vepnar#3618 |
-| [<img src="/images/linkedin.png" alt="linkedin" width="30" height="29"/>](https://www.linkedin.com/in/arjan-de-haan-a483481b8/) | [Link](https://www.linkedin.com/in/arjan-de-haan-a483481b8/) |
-| [<img src="/images/medium.png" alt="medium" width="30" height="29"/>](https://vepnar.medium.com/) | [Link](https://vepnar.medium.com/) |
-<!-- TODO: 
-  - Add Kaggle
-  - Add Gitlab
-  - Maybe add youtube if you consider uploading videos
-  - Fix the width & height of the medium icon
-  --!>
+| [<img src="/images/linkedin.png" alt="linkedin" width="30" height="29"/>](https://www.linkedin.com/in/arjan-de-haan-a483481b8/) | [Arjan de Haan](https://www.linkedin.com/in/arjan-de-haan-a483481b8/) |
+| [<img src="/images/medium.png" alt="medium" width="30" height="29"/>](https://vepnar.medium.com/) | [Vepnar](https://vepnar.medium.com/) |
+| [<img src="/images/gitlab.png" alt="gitlab" width="30" height="30"/>] | [Vepnar](https://gitlab.com/Vepnar) |
+
 
 <!--
 **Vepnar/Vepnar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
