@@ -14,7 +14,7 @@ I am a Software engineer, Data scientist & Linux Enthusiast.
 | [<img src="/images/discord.png" alt="discord" width="30" height="29"/>](https://discord.com/) | Vepnar#3618 |
 | [<img src="/images/linkedin.png" alt="linkedin" width="30" height="29"/>](https://www.linkedin.com/in/arjan-de-haan-a483481b8/) | [Arjan de Haan](https://www.linkedin.com/in/arjan-de-haan-a483481b8/) |
 | [<img src="/images/medium.png" alt="medium" width="30" height="29"/>](https://vepnar.medium.com/) | [Vepnar](https://vepnar.medium.com/) |
-| [<img src="/images/gitlab.png" alt="gitlab" width="30" height="30"/>] | [Vepnar](https://gitlab.com/Vepnar) |
+| [<img src="/images/gitlab.png" alt="gitlab" width="30" height="30"/>](https://gitlab.com/Vepnar) | [Vepnar](https://gitlab.com/Vepnar) |
 
 
 <!--
