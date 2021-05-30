@@ -3,7 +3,7 @@
 I am a Software engineer, Data scientist & Linux Enthusiast.  
 
 - 🔭 I’m currently working on `My portfolio website`
-- 🌱 I’m currently learning `Flutter`
+- 🌱 I’m currently learning `Azure`
 - 💬 Ask me about `Data science`, `Software engineering`, `Privacy` & `Arch Linux`
 - 🤔 I’m looking to collaborate on `DCGAN` & `Projects which make the world a better place`
 
